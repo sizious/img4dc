@@ -1,0 +1,1 @@
+./bin/Debug/src_console.c.o ./bin/Debug/src_fileutil.c.o ./bin/Debug/src_version.c.o   

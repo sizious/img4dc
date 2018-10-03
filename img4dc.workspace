@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="img4dc" Database="">
+  <Project Name="edc" Path="edc/edc.project" Active="No"/>
+  <Project Name="lbacalc" Path="lbacalc/lbacalc.project" Active="Yes"/>
+  <Project Name="cdi4dc" Path="cdi4dc/cdi4dc.project" Active="No"/>
+  <Environment>
+    <![CDATA[]]>
+  </Environment>
+  <Project Name="mds4dc" Path="mds4dc/mds4dc.project" Active="No"/>
+  <Project Name="common" Path="common/common.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Project Name="cdi4dc" ConfigName="Debug"/>
+      <Project Name="common" ConfigName="Debug"/>
+      <Project Name="edc" ConfigName="Debug"/>
+      <Project Name="lbacalc" ConfigName="Debug"/>
+      <Project Name="mds4dc" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="no">
+      <Project Name="cdi4dc" ConfigName="Release"/>
+      <Project Name="common" ConfigName="Release"/>
+      <Project Name="edc" ConfigName="Release"/>
+      <Project Name="lbacalc" ConfigName="Release"/>
+      <Project Name="mds4dc" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
